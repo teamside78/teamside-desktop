@@ -1,1 +1,1 @@
-# desktop-win64
+# teamside-desktop
